@@ -1,0 +1,13 @@
+#/usr/share/applications/spotify.desktop
+
+[Desktop Entry]
+Type=Application
+Name=Spotify
+GenericName=Music Player
+Icon=/usr/share/spotify/icons/spotify.png
+TryExec=spotify
+Exec=spotify %U
+Terminal=false
+MimeType=x-scheme-handler/spotify;
+Categories=Audio;Music;Player;AudioVideo;
+StartupWMClass=spotify
