@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "C_Cpp.updateChannel": "Insiders",
+    "markdown-pdf.displayHeaderFooter": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline"
+}
+
+#.config/Code/User/
