@@ -50,7 +50,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
 notebook
-numpy==1.16.1
+numpy==1.22.0
 opencv-python==4.0.0.21
 packaging==19.0
 pandas==0.24.1
